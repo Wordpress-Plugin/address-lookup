@@ -395,3 +395,16 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+#lookup {
+    position:absolute;
+    left:50%;
+    width:600px;
+    margin-left:-300px;
+    top:100px;
+}
+#lookup input {
+    width:100%;
+    padding:.5em .8em;
+    border:1px solid #eee;
+    outline:0;
+}
