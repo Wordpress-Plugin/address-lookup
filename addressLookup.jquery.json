@@ -1,0 +1,31 @@
+{
+    "name": "addressLookup",
+    "title": "Address Lookup",
+    "description": "jQuery plugin showing an autocomplete list of addresses from Google Maps",
+    "keywords": [
+        "address",
+        "address lookup"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Luke Thomas",
+        "url": "http://github.com/luk3thomas"
+    },
+    "maintainers": [
+        {
+            "name": "Luke Thomas",
+            "email": "luke@vewebsites.com",
+            "url": "http://gnarf.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/vecreative/address-lookup/master/license.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.9",
+        "google-maps-api": "3",
+    }
+}
